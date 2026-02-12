@@ -23,7 +23,7 @@ export const poppins = Poppins({
 
 
 export const metadata: Metadata = {
-  title: 'Laudare Academy',
+  title: 'Laudare AI Academy',
   description: "",
   icons: {
     icon: "/favicon.ico",
@@ -39,22 +39,22 @@ export const metadata: Metadata = {
     "future-ready tech skills"
   ],
 
-  authors: [{ name: "Laudare Academy", url: "https://laudare.vercel.app" }],
-  creator: "Laudare Academy Initiatives",
-  publisher: "Laudare Academy",
+  authors: [{ name: "Laudare AI Academy", url: "https://laudare.vercel.app" }],
+  creator: "Laudare AI Academy Initiatives",
+  publisher: "Laudare AI Academy",
 
   openGraph: {
-    title: "Laudare Academy |  Innovating the future of intelligence",
+    title: "Laudare AI Academy |  Innovating the future of intelligence",
     description:
       "Innovating the future of intelligence.",
     url: "https://laudare-fe.vercel.app",
-    siteName: "Laudare Academy",
+    siteName: "Laudare AI Academy",
     images: [
       {
         url: "/laudare-bg.png",
         width: 1200,
         height: 630,
-        alt: "Laudare Academy – Innovating the future of intelligence",
+        alt: "Laudare AI Academy – Innovating the future of intelligence",
       },
     ],
     type: "website",
@@ -62,7 +62,7 @@ export const metadata: Metadata = {
 
   twitter: {
     card: "summary_large_image",
-    title: "Laudare Academy",
+    title: "Laudare AI Academy",
     description: "Innovating the future of intelligence",
     images: ["/background.png"],
     creator: "@laudare",
